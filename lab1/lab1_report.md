@@ -7,7 +7,7 @@ Group: U4125
 Author: Tsvirko Elina Vitalievna  
 Lab: Lab1  
 Date of create: 04.05.2025  
-Date of finished:  
+Date of finished: 05.05.2025    
 ## Ход работы  
 ## Создание виртуальной машины  
 В разделе IAM & Admin — Service Account и создала аккаунт с ролью Storage Admin.   Затем, я создала виртуальную машину во вкладке Compute Engine с Machine type e2-micro, во вкладке Advanced выбрала режим Spot.   
