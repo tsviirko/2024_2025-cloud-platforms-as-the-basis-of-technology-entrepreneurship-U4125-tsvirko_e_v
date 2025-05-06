@@ -7,7 +7,7 @@ Group: U4125
 Author: Tsvirko Elina Vitalievna  
 Lab: Lab2  
 Date of create: 29.04.2025  
-Date of finished:  
+Date of finished: 05.05.2025  
   
 ## Ход работы  
 ## Создание сервиса Cloud Run  
