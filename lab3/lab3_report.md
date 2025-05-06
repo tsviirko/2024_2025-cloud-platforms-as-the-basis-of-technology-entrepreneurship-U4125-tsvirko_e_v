@@ -7,7 +7,7 @@ Group: U4125
 Author: Tsvirko Elina Vitalievna    
 Lab: Lab3  
 Date of create: 04.05.2025  
-Date of finished:  
+Date of finished: 05.05.2025  
 ## Ход работы  
 ## Создание Cloud Storage bucket  
 В разделе Cloud Storage я создала bucket под своим именем, куда зугрузила 3 изображения  
